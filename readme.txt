@@ -5,3 +5,8 @@ Git tracks changes.
 
 Creating a new branch is quick and simple.
 add merger
+
+total 2
+add 1
+
+add new feature
